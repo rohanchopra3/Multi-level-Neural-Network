@@ -5,4 +5,8 @@ This notebook implmenets a multi-layer neural network using tensorflow 2.0 witho
 #### test_multinn.py :- This is the test script which uses the multi level neural network to test if it is working properly.
 
 #### To run the test case:-
+```python
 pytest -q test_multinn.py  
+```
+
+
